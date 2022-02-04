@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on projects for the Yandex Academy 
 - 🌱 I’m currently learning Python and Ruby, because it is impossible to learn any language completely
